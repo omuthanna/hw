@@ -1,0 +1,160 @@
+header{
+    background: white;
+    position: absolute;
+    top: 0;            
+    width: 99%;
+    height: 90px;            
+    padding: 0;
+    margin:0;
+    border: #cccccc solid;            
+    font-family: Georgia, 'Times New Roman', Times, serif;
+               
+    /* border: solid; */
+
+}
+h1{
+    background:#4aaaa5;
+    color: white;
+    width: 350px;
+    text-align: center;
+    margin-left: 100px;
+    /* border: black solid; */
+    margin-top: 47px;
+    
+}
+h2{
+    color: #4aaaa5;
+    background: white;
+    text-align:left;
+    margin-left: 30px;
+}
+hr{
+    width: 800px;
+}
+nav{
+    position: relative;;
+    float: right; 
+    margin: 0;         
+    /* border: solid;  */
+    margin-right: 50px; 
+    margin-top: -55px;
+    
+   
+}
+li{
+display: inline;
+/* border: solid; */
+
+
+
+}
+ul{
+list-style-type: none;
+    padding: 0;
+    /* margin-right: 15px; */
+    /* border: solid; */
+    
+}
+body{
+    
+    margin-top: 125;
+    background-image: url("img/dust.png") ;
+    color: #777777; 
+    
+    font-family: Arial, Helvetica, sans-serif;    
+
+}
+.mainsection{
+    
+height: 400px;
+width: 960px;
+background: white;
+margin: 20px auto;
+border: #dddddd solid;
+
+    
+}
+footer{
+    position:fixed;
+    bottom: 5px;
+    color: white;
+    width: 100%;
+    background: #666666;
+    height: 40px;
+    
+    border-top: 10px solid #4aaaa5;
+    text-align: center;
+    
+    
+
+
+}
+img{
+    padding-top: 25px;
+    padding-right: 10px;
+    margin-left: 20px;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.bioimage{
+    position: relative;
+    float: left;
+}
+.spacing{
+    padding: 25 10 25 0;
+}
+p{
+    padding: 0;
+    margin: 0;
+    padding-left: 25;
+}
+.contact{
+    /* float: left; */
+}
+input[ type=text], textarea{
+    
+    width: 95%;
+    margin: 5 25 5 25;
+}
+input[type=submit]
+{
+    background: #4aaaa5;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin:10px 25px;
+}
+.folio{
+    position: relative;
+    width: 350px;
+    padding: 12px;
+    float: left;
+
+
+}
+
+.mnsection{
+    
+    height: 900px;
+    
+    width: 960px;
+    background: white;
+    margin: 20px auto;
+    border: #dddddd solid;
+    padding-bottom:200px;
+}
+.foli-lable{
+    background: #4aaaa5;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    overflow: hidden;
+    width: 250px;
+    top: 250px;
+    right: 92px;
+    
+
+}
